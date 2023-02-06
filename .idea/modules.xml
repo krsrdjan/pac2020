@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/k8s/k8s.iml" filepath="$PROJECT_DIR$/k8s/k8s.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pac2020.iml" filepath="$PROJECT_DIR$/pac2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/react-conference-web-app/react-conference-web-app.iml" filepath="$PROJECT_DIR$/react-conference-web-app/react-conference-web-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-conference-app-api/spring-boot-conference-app-api.iml" filepath="$PROJECT_DIR$/spring-boot-conference-app-api/spring-boot-conference-app-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/terraform/terraform.iml" filepath="$PROJECT_DIR$/terraform/terraform.iml" />
+    </modules>
+  </component>
+</project>
